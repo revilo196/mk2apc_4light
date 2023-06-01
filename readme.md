@@ -89,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Color Table
 
 here follows a color table of usable color for refernce
-[PDF]("APC_MINI_mk2_qlcplus_colors.pdf") or [HTML]("AAPC_MINI_mk2_qlcplus_colors.html") 
+[PDF](APC_MINI_mk2_qlcplus_colors.pdf) or [HTML](AAPC_MINI_mk2_qlcplus_colors.html) 
